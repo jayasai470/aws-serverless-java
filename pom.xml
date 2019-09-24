@@ -32,7 +32,11 @@
 			<artifactId>aws-serverless-java-container-springboot2</artifactId>
 			<version>1.4-SNAPSHOT</version>
 		</dependency>
-
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<version>1.18.10</version>
+		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
